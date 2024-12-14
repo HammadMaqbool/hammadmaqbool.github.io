@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Title": "Blogging site .NET6 MVC",
+    "Details": "These are the details of the blogging site These are the details of the blogging siteThese are the details of the blogging siteThese are the details of the blogging siteThese are the details of the blogging siteThese are the details of the blogging siteThese are the details of the blogging site",
+    "Image": "blogging-site.png"
+  },
+  {
+    "Id": 2,
+    "Title": "Job Listing Site",
+    "Details": "These are the details of the blogging site These are the details of the blogging site These are the details of the blogging site These are the details of the blogging site These are the details of the blogging site",
+    "Image": "job-listing.png"
+  }
+]

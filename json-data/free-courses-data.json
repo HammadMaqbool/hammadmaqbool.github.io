@@ -1,0 +1,18 @@
+[
+  {
+    "Title": "Course Title",
+    "Details": "These are the details of my course",
+    "CourseLink": "youtube.com/Playlist",
+    "YouTube": "https://www.youtube.com/SoftwareEngineering",
+    "Thumbnail": "githubcourse.png",
+    "Discord": "discordlink"
+  },
+  {
+    "Title": "Course Title",
+    "Details": "These are the details of my course",
+    "CourseLink": "youtube.com/Playlist",
+    "YouTube": "https://www.youtube.com/SoftwareEngineering",
+    "Thumbnail": "githubcourse.png",
+    "Discord": "discordlink"
+  }
+]

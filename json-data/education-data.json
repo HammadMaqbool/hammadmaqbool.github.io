@@ -1,0 +1,18 @@
+[
+  {
+    "Duration": "2018-2019",
+    "Institute" : "AJK University",
+    "Location" : "Azad Kashmir",
+    "DegreeTitle": "BS",
+    "DegreeName" : "Computer Science",
+    "Words": "It was a good experiance"
+  },
+  {
+    "Duration": "2019-2020",
+    "Institute" : "VU University",
+    "Location" : "Lahore, Pakistan",
+    "DegreeTitle": "MS",
+    "DegreeName" : "Computer Science",
+    "Words": "It was a good experiance"
+  }
+]
