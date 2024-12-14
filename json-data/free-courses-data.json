@@ -1,18 +1,26 @@
 [
   {
-    "Title": "Course Title",
-    "Details": "These are the details of my course",
-    "CourseLink": "youtube.com/Playlist",
+    "Title": "Web Development with .NET MVC",
+    "Details": "In this video series you will learn how to create a complete blogging site with admin panel using .NET6 with MVC",
+    "CourseLink": "https://youtube.com/playlist?list=PLptLP7KjDoqXcthM7iFBggYEETHjIT_Ru&si=Kwl2BXe8g1EDjmRV",
     "YouTube": "https://www.youtube.com/SoftwareEngineering",
-    "Thumbnail": "githubcourse.png",
+    "Thumbnail": "webdev-mvc-6.png",
     "Discord": "discordlink"
   },
   {
-    "Title": "Course Title",
-    "Details": "These are the details of my course",
-    "CourseLink": "youtube.com/Playlist",
+    "Title": "Data Structures with HandWritten Notes",
+    "Details": "In this course you will learn Data Structures with C++ using examples and handwritten notes.",
+    "CourseLink": "https://youtube.com/playlist?list=PLptLP7KjDoqUySrz--h83NKnbN6O_6dmg&si=Ap6QoL8l2hpTenQK",
     "YouTube": "https://www.youtube.com/SoftwareEngineering",
-    "Thumbnail": "githubcourse.png",
+    "Thumbnail": "datastructures.png",
+    "Discord": "discordlink"
+  },
+  {
+    "Title": "Blazor WASM - with APIs",
+    "Details": "In this course you will learn Blazor WASM, EF Core with the concepts of APIs and create a compelete project.",
+    "CourseLink": "https://youtube.com/playlist?list=PLptLP7KjDoqWUxjFwLKHla9Upo5rt1KgA&si=JHBr37LSmO5_lkiY",
+    "YouTube": "https://www.youtube.com/SoftwareEngineering",
+    "Thumbnail": "Blazor.png",
     "Discord": "discordlink"
   }
 ]

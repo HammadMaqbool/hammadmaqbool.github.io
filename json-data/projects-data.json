@@ -1,14 +1,38 @@
 [
   {
     "Id": 1,
-    "Title": "Blogging site .NET6 MVC",
-    "Details": "These are the details of the blogging site These are the details of the blogging siteThese are the details of the blogging siteThese are the details of the blogging siteThese are the details of the blogging siteThese are the details of the blogging siteThese are the details of the blogging site",
+    "Title": "Virtual Classroom System",
+    "Details": "I developed this web application as the final year project of BS(CS) back in 2015 it was a complete solution\nto provide ease of working from home to student, teacher and administration. Tech Stack: HTML/CSS | C#.NET WEB FORMS | MS-SQL SERVER",
     "Image": "blogging-site.png"
   },
   {
     "Id": 2,
+    "Title": "Blogging Site with Complete Content Management System",
+    "Details": "Created a complete custom blogging site with all the necessary features and fully equipped Admin panel\nusing above mentioned technologies. Also covered its development process as a YouTube Tutorial Series",
+    "Image": "job-listing.png"
+  },
+  {
+    "Id": 3,
+    "Title": "Fee Management System",
+    "Details": "Studied the complete system of the Client’s school and according to his requirement developed a software\nto track all the expense and manage the students fee related tasks.\nThe software was also able to generate students fee challan on monthly basis. Tech Stack: C#.NET | Framework: .NET | Windows Desktop Application | Database- MS-SQL Server",
+    "Image": "job-listing.png"
+  },
+  {
+    "Id": 4,
+    "Title": "Multi featured web site for an Institute (Maqbool Courses Institute)",
+    "Details": "Maqbool Courses Institute is an IT Institute providing IT and Programming courses (Free & Paid) Created a\nwebsite for the institute providing the following features\nOnline Registration System for the Student\nListing of all the Paid Courses\nOnline Certificate Verification system\nFree Courses Panel (where student can select and watch whole free course for free)\nSite also have a complete Admin panel with complete secure login system",
+    "Image": "job-listing.png"
+  },
+  {
+    "Id": 5,
+    "Title": "Air Quality Index Meter (AQI Meter) - Android App",
+    "Details": "To test and get the hands on the new platform I created an Android Application using some APIs which is\nable to check the Air Quality Index of your current location. The App is equipped with the minimalistic and\nattractive UI with the ability to check\nAir Quality Index\nCo level in the air\nSo² level in the air\nO³ level in the air\nGrass pollen level\nTree pollen level\nWeed pollen level",
+    "Image": "job-listing.png"
+  },
+  {
+    "Id": 6,
     "Title": "Job Listing Site",
-    "Details": "These are the details of the blogging site These are the details of the blogging site These are the details of the blogging site These are the details of the blogging site These are the details of the blogging site",
+    "Details": "To Test and get the hands on the new Blazor Web App project I created a complete job Listing site with the\nabove mentioned technology equipped with a complete Role based Authorization and Authentication\nsystem. Where a person with different roles is able to see different features of admin panel. Tech Stack: C#.NET | Framework: .NET Blazor Server .NET 8 | Database- MS-SQL Server",
     "Image": "job-listing.png"
   }
 ]
