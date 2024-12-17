@@ -1,0 +1,82 @@
+[
+  {
+    "Title": ".NET Playlist - Stay updated",
+    "Details": "In this playlist I keep posting the uptodate knowledge of the C# and .NET Platform keep following to stay update",
+    "CourseLink": "https://youtube.com/playlist?list=PLptLP7KjDoqWNN7rc6hJzg9kumkPgs0sV&si=eyyG8BidyFvn8bKI",
+    "YouTube": "https://www.youtube.com/SoftwareEngineering",
+    "Thumbnail": "netlist.png",
+    "Discord": "#"
+  },
+  {
+    "Title": "Web Development with .NET MVC",
+    "Details": "In this video series you will learn how to create a complete blogging site with admin panel using .NET6 with MVC",
+    "CourseLink": "https://youtube.com/playlist?list=PLptLP7KjDoqXcthM7iFBggYEETHjIT_Ru&si=Kwl2BXe8g1EDjmRV",
+    "YouTube": "https://www.youtube.com/SoftwareEngineering",
+    "Thumbnail": "webdev-mvc-6.png",
+    "Discord": "discordlink"
+  },
+  {
+    "Title": "Data Structures with HandWritten Notes",
+    "Details": "In this course you will learn Data Structures with C++ using examples and handwritten notes.",
+    "CourseLink": "https://youtube.com/playlist?list=PLptLP7KjDoqUySrz--h83NKnbN6O_6dmg&si=Ap6QoL8l2hpTenQK",
+    "YouTube": "https://www.youtube.com/SoftwareEngineering",
+    "Thumbnail": "datastructures.png",
+    "Discord": "discordlink"
+  },
+  {
+    "Title": "Blazor WASM - with APIs",
+    "Details": "In this course you will learn Blazor WASM, EF Core with the concepts of APIs and create a compelete project.",
+    "CourseLink": "https://youtube.com/playlist?list=PLptLP7KjDoqWUxjFwLKHla9Upo5rt1KgA&si=JHBr37LSmO5_lkiY",
+    "YouTube": "https://www.youtube.com/SoftwareEngineering",
+    "Thumbnail": "Blazor.png",
+    "Discord": "discordlink"
+  },
+  {
+    "Title": "Github Course (Without Command line)",
+    "Details": "This Tutorial Series is going to teach you GitHub without using any GitHub command.",
+    "CourseLink": "https://youtube.com/playlist?list=PLptLP7KjDoqXGrkfemriZ2VhPuxDRJDYk&si=koJuzCc1NeCDui0G",
+    "YouTube": "https://www.youtube.com/SoftwareEngineering",
+    "Thumbnail": "Github-Course.png",
+    "Discord": "discordlink"
+  },
+  {
+    "Title": "Blazor Server - Complete Course",
+    "Details": "Blazor Server Web App Development series in which we have developed a complete Job listing site along with admin panel.",
+    "CourseLink": "https://youtube.com/playlist?list=PLptLP7KjDoqVu5LZ6W2re5_MmvWtd8QAC&si=ZLCv5gmaqm9rSyMV",
+    "YouTube": "https://www.youtube.com/SoftwareEngineering",
+    "Thumbnail": "BlazorServer.png",
+    "Discord": "discordlink"
+  },
+  {
+    "Title": "Software Project Management",
+    "Details": "Blazor Server Web App Development series in which we have developed a complete Job listing site along with admin panel.",
+    "CourseLink": "https://youtube.com/playlist?list=PLptLP7KjDoqVRWHPQIIstwlbKbr-OCG3l&si=p2b63TcaKVDzggg_",
+    "YouTube": "https://www.youtube.com/SoftwareEngineering",
+    "Thumbnail": "SPM.jpg",
+    "Discord": "discordlink"
+  },
+  {
+    "Title": "Software Quality Assurance",
+    "Details": "Blazor Server Web App Development series in which we have developed a complete Job listing site along with admin panel.",
+    "CourseLink": "https://youtube.com/playlist?list=PLptLP7KjDoqVNLwIJVlkyi85XIlE7Y9WD&si=_7E7fTK09pQ5NxBQ",
+    "YouTube": "https://www.youtube.com/SoftwareEngineering",
+    "Thumbnail": "SQA.jpg",
+    "Discord": "discordlink"
+  },
+  {
+    "Title": "Database Management System",
+    "Details": "Blazor Server Web App Development series in which we have developed a complete Job listing site along with admin panel.",
+    "CourseLink": "https://youtube.com/playlist?list=PLptLP7KjDoqXrS1hHETnGUStvkPlWemAS&si=DuKijVmQFMObLWsm",
+    "YouTube": "https://www.youtube.com/SoftwareEngineering",
+    "Thumbnail": "DBMS.jpg",
+    "Discord": "discordlink"
+  },
+  {
+    "Title": "Software Requirement Engineering",
+    "Details": "Blazor Server Web App Development series in which we have developed a complete Job listing site along with admin panel.",
+    "CourseLink": "https://youtube.com/playlist?list=PLptLP7KjDoqVcNGqntp2FhuWHGNe6evcb&si=F45u7BdV2JGrhWp5",
+    "YouTube": "https://www.youtube.com/SoftwareEngineering",
+    "Thumbnail": "SRE.jpg",
+    "Discord": "discordlink"
+  }
+]
