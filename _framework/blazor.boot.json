@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "PersonalPortfolio",
   "resources": {
-    "hash": "sha256-BUT+0IVChUWQoCMwp4tb2gugrDFfuS7VEdLmCcLaJpI=",
+    "hash": "sha256-xvtxb0bZsk1XHmPFDPxuqejnzr+zdaaevTYP3nIaobo=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.Forms.thhw8cz9wu.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
@@ -32,7 +32,7 @@
       "Microsoft.Win32.Registry.yqsrs1xmzk.wasm": "Microsoft.Win32.Registry.wasm",
       "mscorlib.o0184ey5ia.wasm": "mscorlib.wasm",
       "netstandard.hb3h2rr8mk.wasm": "netstandard.wasm",
-      "PersonalPortfolio.gektdvsd5n.wasm": "PersonalPortfolio.wasm",
+      "PersonalPortfolio.i0rost3l3g.wasm": "PersonalPortfolio.wasm",
       "System.AppContext.rb3sudfxx6.wasm": "System.AppContext.wasm",
       "System.Buffers.ijnujodfj9.wasm": "System.Buffers.wasm",
       "System.Collections.Concurrent.xuu1t5r6su.wasm": "System.Collections.Concurrent.wasm",
@@ -251,7 +251,7 @@
       "Microsoft.Win32.Registry.yqsrs1xmzk.wasm": "sha256-tmUG+Qqw/KLITqbbv98IdX/o/3dqB7fOpO7g7G8djoM=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "PersonalPortfolio.gektdvsd5n.wasm": "sha256-eOpzJLsJYtTtUCRJ5A7R9qb73fI27wYsTkn4a1uOMMM=",
+      "PersonalPortfolio.i0rost3l3g.wasm": "sha256-wj4fHh8tU6Zy5Oa2OqeylF4R3lSFtnCaez7zq9olbXo=",
       "System.AppContext.rb3sudfxx6.wasm": "sha256-KZ6fsyvp5aaqxh4UMLsUiIXQb88NQUB4pXngcqQ5Mck=",
       "System.Buffers.ijnujodfj9.wasm": "sha256-UkqDyR6O7ISzJD3/g9OumXpVeuQtLxrkku1S+3eOsF0=",
       "System.Collections.Concurrent.xuu1t5r6su.wasm": "sha256-hwyy/mTw8Z7JoutNChaWKXKlOiw/yPNMLPspzEBVuCE=",
